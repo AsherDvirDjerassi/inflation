@@ -15,7 +15,7 @@ PCE is the share of GDP that is associated with consumption in an expenditure ba
 
 PCE is decomposed into product type catergories. The broad product types catergories are durable good, non-durable goods, and services. Each of these product type catergories can be further decomposed. 
 
-<img src="figures/pce_cat_q1_2022.png" width="600">
+<img src="figures/pce_cat_q1_2022.png" width="500">
 
 ## Preferred product type catergory decomposition
 
