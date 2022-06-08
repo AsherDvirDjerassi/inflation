@@ -37,7 +37,7 @@ Our preferred product type catergory decomposition for the purposes of making se
  
  PCE price indexes for each PCE catergory and subcatergory are housed in [Table 2.4.4U. Price Indexes for Personal Consumption Expenditures by Type of Product](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)
 
- <img src="figures/price_change.png" width="800">
+ <img src="figures/price_change.svg" width="800">
 
  ## References
  
