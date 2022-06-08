@@ -30,10 +30,8 @@ Our preferred product type catergory decomposition for the purposes of making se
   Electricity and gas (services) 
   Gasoline and other energy goods (non-durable goods)
   Health care (services)
- 
- ![](figures/pce_cat_of_interest.png){ width=50% }
- 
- <img src="figures/pce_cat_of_interest.png" width="200">
+  
+ <img src="figures/pce_cat_of_interest.png" width="400">
  
  ## PCE price indexes
  
