@@ -32,3 +32,19 @@ Our preferred product type catergory decomposition for the purposes of making se
   Health care (services)
  
  ![](figures/pce_cat_of_interest.png)
+ 
+ ## PCE price indexes
+ 
+ PCE price indexes for each PCE catergory and subcatergory are housed in [Table 2.4.4U. Price Indexes for Personal Consumption Expenditures by Type of Product](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)
+
+![](figures/price_change.svg)
+ 
+ ## References
+ 
+[Brookings](https://www.brookings.edu/blog/up-front/2022/05/18/how-does-the-consumer-price-index-account-for-the-cost-of-housing/)
+ 
+[New York Fed](https://libertystreeteconomics.newyorkfed.org/2022/04/inflation-persistence-how-much-is-there-and-where-is-it-coming-from/)
+
+[St.Louis Fed](stlouisfed.org/on-the-economy/2022/mar/breaking-down-contributors-high-inflation)
+
+Stock, James H., and Mark W. Watson. "Core inflation and trend inflation." Review of Economics and Statistics 98.4 (2016): 770-784.
