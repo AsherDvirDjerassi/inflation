@@ -9,13 +9,13 @@ The contribution of inflation to overall trends is weighted using Table 2.4.5U. 
 
 PCE is the share of GDP that is associated with consumption in an expenditure based definition of GDP - i.e., Y = C + I + G + X - I. This share of GDP has seen a relatively monotonic rise over the last half century. The difference between PCE as a share of GDP in the mid-1970s and today raises questions about its ability to be used for purposes of comparison between the two periods. However, the same concerns could reasonably be raised for CPI. 
 
-<img src="figures/fredgraph.png" width="800">
+<img src="figures/fredgraph.png" width="600">
 
 ## PCE product type catergories
 
 PCE is decomposed into product type catergories. The broad product types catergories are durable good, non-durable goods, and services. Each of these product type catergories can be further decomposed. 
 
-<img src="figures/pce_cat_q1_2022.png" width="800">
+<img src="figures/pce_cat_q1_2022.png" width="600">
 
 ## Preferred product type catergory decomposition
 
@@ -31,13 +31,13 @@ Our preferred product type catergory decomposition for the purposes of making se
   Gasoline and other energy goods (non-durable goods)
   Health care (services)
   
- <img src="figures/pce_cat_of_interest.png" width="800">
+ <img src="figures/pce_cat_of_interest.png" width="600">
  
  ## PCE price indexes
  
  PCE price indexes for each PCE catergory and subcatergory are housed in [Table 2.4.4U. Price Indexes for Personal Consumption Expenditures by Type of Product](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)
 
- <img src="figures/price_change.svg" width="800">
+ <img src="figures/price_change.png" width="600">
 
  ## References
  
