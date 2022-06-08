@@ -19,6 +19,8 @@ PCE is decomposed into product type catergories. The broad product types catergo
 
 ## Preferred product type catergory decomposition
 
+The BEA decomposes PCE into relatively granular subcatergories; this content is housed in [Table 2.4.5U. Personal Consumption Expenditures by Type of Product](https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&1921=underlying&1903=2017#reqid=19&step=3&isuri=1&1921=underlying&1903=2017). 
+
 Our preferred product type catergory decomposition for the purposes of making sense of contemporary inflation focuses on the following subcatergories: 
   Imputed rental of owner-occupied nonfarm housing (services)
   Rental of tenant-occupied nonfarm housing (services)
