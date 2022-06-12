@@ -58,4 +58,6 @@ Forces specific to real-estate markets have influence on rental markets for the 
 
 [St.Louis Fed](stlouisfed.org/on-the-economy/2022/mar/breaking-down-contributors-high-inflation)
 
+Bauer, Andrew, Nicholas Haltom, and William Peterman. Forthcoming. "Decomposing Inflation." Federal Reserve Bank of Atlanta Economic Review (2004): 39-51. 
+
 Stock, James H., and Mark W. Watson. "Core inflation and trend inflation." Review of Economics and Statistics 98.4 (2016): 770-784.
