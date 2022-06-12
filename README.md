@@ -39,6 +39,16 @@ Our preferred product type catergory decomposition for the purposes of making se
  PCE price indexes for each PCE catergory and subcatergory are housed in [Table 2.4.4U. Price Indexes for Personal Consumption Expenditures by Type of Product](https://apps.bea.gov/iTable/iTable.cfm?ReqID=19&step=2#reqid=19&step=2&isuri=1&1921=underlying)
 
  <img src="figures/price_change.png" width="600">
+ 
+ ## Housing component of inflation
+ 
+ 1) Forces specific to rental markets: a) renters having more cash on hand due to UI, stimulus, and rental assistance programs, b) more churn in the rental market allowing for prices to increase (think of more people breaking leases or not renewing) - prices become less sticky, c) people fanning out from high rent cities to lower rent places and holding different reservation prices d) all in the context of pre-covid tendencies for greater concentration in rental markets. 
+
+2) Forces specific to real-estate markets: a) lower interest rates due to fed policy and, possibly, other covid relevant forces that pushed down interest rates, b) increased demand for houses due to covid (eg moving to the suburbs or deciding to invest now), c) forces specific to “demographics” - millennials at the age where they begin to invest, d) robust job market due to massive stimulus leading to increased demand for housing, e) all within the context of pre-covid real-estate asset price inflation tendencies (which I’ll layout in the next text)
+
+Forces specific to real-estate markets have influence on rental markets for the simple reason that they are dealing in the same product. If the net present discounted value of rents are not equivalent to the sale price of the same unit, there is an opportunity cost to keep the unit/house as a rental rather than sell it. Therefore, there is a tendency for rental prices to increase as real-estate prices. 
+
+*pre-covid forces related to asset price inflation in real-estate markets: Step 1) Income inequality increases; Step 2) The rich save/invest a greater share of their income than lower incomes people, and in turn invest in assets (including real-estate); Step 3) Unlike financial assets, the supply of real estate is relatively inelastic (e.g., there is only so much land), therefore with more money cashing after the relatively same amount of stock, prices are pushed upward; Step 4) As prices of these assets increase, the owners of real estate assets have more wealth, and via more wealth they see more capital income (e.g., via ground rents or through realized capital gains from the sale of their real estate); Step 5) With more capital income from real estate (which is concentrated at the top of the distribution), a greater share of national income is re-invested in real estate; Step 6) These processes loop and reinforce themselves, further pushing up real estate asset prices. 
 
  ## References
  
